@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:firebase_auth/firebase_auth.dart';
-
+//Added
 class MyFirebaseAuth {
   static String? adminName;
   static FirebaseAuth firebaseAuth = FirebaseAuth.instance;
